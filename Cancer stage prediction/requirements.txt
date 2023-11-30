@@ -1,0 +1,10 @@
+Flask
+flask-cors 
+Flask-Session
+passlib
+scikit-learn
+gunicorn
+waitress
+pandas
+numpy
+

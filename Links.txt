@@ -1,0 +1,7 @@
+# Venkata Surya Akash Mernedi
+
+# Docker hub
+https://hub.docker.com/repository/docker/akashmernedi654/cancer-prediction/general
+
+# Github repository
+https://github.com/akashmernedi/Cancer-prediction-using-ML
